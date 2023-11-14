@@ -1327,7 +1327,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/prabej/Hunter/blob/main/Hunter.txt").text
+	r1=requests.get("https://github.com/prabej/the.txt/blob/main/Hunter").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
