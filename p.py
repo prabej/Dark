@@ -432,7 +432,8 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif HUNTER in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/@HunterTricker?si=UP7YAcRRqbHfai6w ")
+			os.system("xdg-open https://t.me/PaidFREE117 ")
+   ")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
